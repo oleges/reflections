@@ -16,3 +16,11 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 	Можно провести сравнение staging area с последним коммитом и просмотреть, какие
 	изменения были внесены.
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+	Если нужно попробовать реализовать экспериментальную функцию, не боясь сломать
+	существующий код, можно сделать branch и работать в нем, при этом главная ветка
+	останется в том же состоянии, как и до реализации этой функции. Или при создании
+	локализованной версии, тоже будет полезно сделать branch.
