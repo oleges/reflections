@@ -11,3 +11,8 @@ What value do you think it offers?
 	каких именно файлов нужно сделать. Working directory представляет собой
 	текущую версию файлов, надо которыми производиться работа. Репозиторий -
 	история всех сохраненных версий файлов.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Можно провести сравнение staging area с последним коммитом и просмотреть, какие
+	изменения были внесены.
