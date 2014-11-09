@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	При создании репозитория создается служебная папка .git в которой
+	хранятся все метаданные о репозитории: имеющиеся файлы, история их
+	изменений.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+	Staging area играет роль сортировочного стола, где можно выбрать, commit
+	каких именно файлов нужно сделать. Working directory представляет собой
+	текущую версию файлов, надо которыми производиться работа. Репозиторий -
+	история всех сохраненных версий файлов.
