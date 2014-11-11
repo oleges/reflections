@@ -3,3 +3,10 @@ When would you want to use a remote repository rather than keeping all your work
   Удаленный репозиторий удобно использовать когда над проектом работает несколько
   человек. Или можно использовать его как пример своей работы, доступный для
   просмотра всем желающим.
+
+Why might you want to always pull changes manually rather than having Git automatically
+stay up-to-date with your remote repository?
+
+	В локальном репозитории могут быть файлы или отдельные изменения, которые не нужно
+	выкладывать в публичный доступ, например какие-то личные наработки, либо незаконченная
+	версия продукта. В таком случае разумно наличие только ручной синхронизации.
