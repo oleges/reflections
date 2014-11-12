@@ -33,3 +33,11 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 	Обмен файлами на физических носителях, по электронной почте, загрузка на сервер - в порядке
 	возрастания удобности.
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+	Отдельную ветку удобно создавать в целом для нововедений, требующих согласования с другими
+	участниками разработки. Используя механизм pull request, можно делать итерации в отдельной ветке,
+	отправлять их на рассмотрение другим участникам и после этого уже добавлять в master. Минус такого
+	подхода - усложненность процесса.
