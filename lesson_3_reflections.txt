@@ -28,3 +28,8 @@ What is the benefit of having a copy of the last known state of the remote store
 	При наличии копии можно работать без связи с сетью, например, в путешестии, с более-менее
 	актуальной версией remote репозитория. К тому же можно сравнивать версии файлов в локальной
 	ветке и удаленной.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Обмен файлами на физических носителях, по электронной почте, загрузка на сервер - в порядке
+	возрастания удобности.
